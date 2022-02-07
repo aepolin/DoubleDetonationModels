@@ -1,0 +1,8 @@
+Naming Convention for lightcurve files:
+
+good_{$Mass of WD}_{$Mass of Helium Shell}_{$explosiontype}_ugrizUBVRI.mag
+
+columns are:
+#time [days] u g r i z U B V R I
+
+where ugriz are the sdss filters and UBVRI are the bessel filters, all magnitudes are in absolute mag.
