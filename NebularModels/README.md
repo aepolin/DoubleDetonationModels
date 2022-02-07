@@ -1,9 +1,10 @@
 # NebularModels
 
 These are the models from: 
-"Nebular Models of Sub-Chandrasekhar Mass Type Ia Supernovae: Clues to the originof Ca-rich transients"
+"Nebular Models of Sub-Chandrasekhar Mass Type Ia Supernovae: Clues to the origin of Ca-rich transients"
 Polin, A., P. E. Nugent, and D. Kasen
-Submitted to ApJ on 27 October 2019.  arXiv e-prints, arXiv:1910.1243
+The Astrophysical Journal, Volume 906, Issue 1, id.65, 11 pp. (2021).
+https://ui.adsabs.harvard.edu/abs/2021ApJ...906...65P/abstract
 
 File titles are in the form: "{MWD}\_{MHe}\_doubledet\_{daysfromexplosion}spectrum.dat", and the data columns are #wavelength, flux
 
